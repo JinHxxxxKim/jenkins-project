@@ -8,5 +8,6 @@ uri="http://java.sun.com/jsp/jstl/fmt"%>
     <h1>Hi, there (updated by JinHxxxxKim)</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
     <h3>Version: 3.2.5</h3>
+    <h4>Testing PollSCM</h4>
   </body>
 </html>
